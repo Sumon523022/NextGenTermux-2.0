@@ -217,7 +217,7 @@ sleep 1
 texts="\n\n \e[1;91m[\e[1;37m~\e[1;91m] PLEASE VISIT OUR GITHUB FOR MORE CRAZY TOOLS!"
 for i in $texts;do echo -e -n "$i "; sleep 0.1; done
 sleep 2
-xdg-open https://github.com/Ign0r3dH4x0r
+xdg-open https://github.com/Sumon523022
 }
 
 # SETUP CONTROLLER
