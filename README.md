@@ -7,10 +7,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green">
-  <img src="https://img.shields.io/github/license/Ign0r3dH4x0r/NextGenTermux">
-  <img src="https://img.shields.io/github/stars/Ign0r3dH4x0r/NextGenTermux">
-  <img src="https://img.shields.io/github/issues/Ign0r3dH4x0r/NextGenTermux?color=red">
-  <img src="https://img.shields.io/github/forks/Ign0r3dH4x0r/NextGenTermux?color=teal">
+  <img src="https://img.shields.io/github/license/Sumon523022/NextGenTermux">
+  <img src="https://img.shields.io/github/stars/Sumon523022/NextGenTermux">
+  <img src="https://img.shields.io/github/issues/Sumon523022/NextGenTermux?color=red">
+  <img src="https://img.shields.io/github/forks/Sumon523022/NextGenTermux?color=teal">
 </p>
 
 <p align="center">
