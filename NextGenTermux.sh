@@ -1,7 +1,7 @@
 #! /bin/bash
 # CODED BY SHAYER MAHMUD SOWMIK
-# GITHUB/Ign0r3dH4x0r
-# FB/Ign0r3dH4x0r
+# GITHUB/Sumon523022
+# FB/Sumon523022
 # IF YOU USE ANY PART OF THIS SCRIPT IN YOUR PROJECT, PLEASE GIVE ME CREDIT.
 # IT WILL INSPIRE ME TO DO SOMETHING NEW FOR YOU GUYS :D
 # HAPPY CODING :V
@@ -25,7 +25,7 @@ sleep 1
 logo(){
 clear
 printf "\n"
-printf "        \e[1;37m<<< \e[1;91mIgn0r3dH4x0r Presents \e[37m >>>\e[0m\n"
+printf "        \e[1;37m<<< \e[1;91Crimson Hunter Presents \e[37m >>>\e[0m\n"
 printf "\e[1;33m      _   __          __  \e[36m ______            \e[0m\n"
 printf "\e[1;33m     / | / /__  _  __/ /_ \e[36m/ ____/__  ____    \e[0m\n"
 printf "\e[1;33m    /  |/ / _ \| |/_/ __/\e[36m/ / __/ _ \/ __ \   \e[0m\n"
@@ -41,7 +41,7 @@ printf "\e[0m\n\n"
 logo2(){
 clear
 printf "\n"
-printf "        \e[1;37m<<< \e[1;91mIgn0r3dH4x0r Presents \e[37m >>>\e[0m\n"
+printf "        \e[1;37m<<< \e[1;91Crimson Hunter Presents \e[37m >>>\e[0m\n"
 printf "\e[1;33m      _   __          __  \e[36m ______            \e[0m\n"
 printf "\e[1;33m     / | / /__  _  __/ /_ \e[36m/ ____/__  ____    \e[0m\n"
 printf "\e[1;33m    /  |/ / _ \| |/_/ __/\e[36m/ / __/ _ \/ __ \   \e[0m\n"
