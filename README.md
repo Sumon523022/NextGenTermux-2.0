@@ -35,6 +35,8 @@
 ### Installation
 
 ```
+$ apt update
+$ apt install git
 $ git clone https://github.com/Sumon523022/NextGenTermux-2.0.git
 $ cd NextGenTermux
 $ bash NextGenTermux.sh
