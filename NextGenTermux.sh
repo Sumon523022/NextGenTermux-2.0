@@ -14,7 +14,7 @@ user_interrupt(){
         printf "\e[0m\n"
         printf "\n\e[32m[\e[37m+\e[32m]\e[0m \e[1;36m Thank for using NextGenTermux! Exiting. . . .\e[0m"
         sleep 1
-        xdg-open http://github.com/Ign0r3dH4x0r
+        xdg-open https://github.com/Sumon523022
         exit 1
 }
 sleep 1
@@ -66,7 +66,7 @@ index(){
   if [[ $sel == 1 || $sel == 01 ]]; then
     setup_main
   elif [[ $sel == 2 || $sel == 02  ]]; then
-    xdg-open http://github.com/Ign0r3dH4x0r
+    xdg-open https://github.com/Sumon523022
   elif [[ $sel == 3 || $sel == 03  ]]; then
     git pull origin
   else
