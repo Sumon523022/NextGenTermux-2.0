@@ -25,7 +25,7 @@ sleep 1
 logo(){
 clear
 printf "\n"
-printf "        \e[1;37m<<< \e[1;91Crimson Hunter Presents \e[37m >>>\e[0m\n"
+printf "        \e[1;37m<<< \e[1;91 Crimson Hunter Presents \e[37m >>>\e[0m\n"
 printf "\e[1;33m      _   __          __  \e[36m ______            \e[0m\n"
 printf "\e[1;33m     / | / /__  _  __/ /_ \e[36m/ ____/__  ____    \e[0m\n"
 printf "\e[1;33m    /  |/ / _ \| |/_/ __/\e[36m/ / __/ _ \/ __ \   \e[0m\n"
@@ -41,7 +41,7 @@ printf "\e[0m\n\n"
 logo2(){
 clear
 printf "\n"
-printf "        \e[1;37m<<< \e[1;91Crimson Hunter Presents \e[37m >>>\e[0m\n"
+printf "        \e[1;37m<<< \e[1;91 Crimson Hunter Presents \e[37m >>>\e[0m\n"
 printf "\e[1;33m      _   __          __  \e[36m ______            \e[0m\n"
 printf "\e[1;33m     / | / /__  _  __/ /_ \e[36m/ ____/__  ____    \e[0m\n"
 printf "\e[1;33m    /  |/ / _ \| |/_/ __/\e[36m/ / __/ _ \/ __ \   \e[0m\n"
