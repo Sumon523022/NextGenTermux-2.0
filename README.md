@@ -50,6 +50,6 @@ $ bash NextGenTermux.sh
 
 ## Screenshots
 <p align="center">
-  <img src="https://ibb.co.com/N6Q5DYkx/ss1.png" width="500">
-  <img src="https://ibb.co.com/ZR965KvJ/ss2.png" width="500">
+  <img src="https://i.ibb.co.com/twRMgcnh/Screenshot-20260511-232338.jpg" width="500">
+  <img src="https://i.ibb.co.com/WWqZ8Kdn/Screenshot-20260511-231428.jpg" width="500">
 </p>
