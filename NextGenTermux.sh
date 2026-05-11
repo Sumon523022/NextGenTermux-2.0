@@ -89,6 +89,10 @@ apt update -y
 logo2
 apt upgrade -y
 logo2
+pkg install toilet figlet ruby -y
+logo2
+gem install lolcat
+logo2
 command -v curl > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing CURL... \e[0m\n\n"; apt install curl -y; logo2; }
 command -v wget > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing WGET... \e[0m\n\n"; apt install wget -y;logo2; }
 command -v git > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing GIT... \e[0m\n\n"; apt install git -y; logo2; }
