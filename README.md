@@ -3,7 +3,7 @@
  </p>
  
  <p align="center">
- <a href="https://linktr.ee/Sumon523022"><img src="https://i.ibb.co/ynhH5PF/Next-Gen.png" alt="NextGen" border="0"></a>
+ <a href="https://linktr.ee/Sumon523022"><img src="https://i.ibb.co.com/G4b4QTTh/Screenshot-20260513-212338-2.jpg" alt="NextGen" border="0"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green">
