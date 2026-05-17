@@ -160,7 +160,7 @@ extra_key(){
   printf "\n \e[1;91m[\e[1;37m√\e[1;91m] DONE!"
   sleep 3
   printf "\n\n \e[1;91m[\e[1;37m~\e[1;91m] WRITING SETTINGS..."
-  keys="extra-keys = [['ls','cd ','cp -r ',' ~/','rm -rf ~/','/','clear','pwd'],['bash ','CTRL','python ','LEFT','DOWN','RIGHT','exit']]"
+  keys="extra-keys = [['ls','cd ','cp -r ',' ~/','rm -rf ~/','main.py','clear','pwd'],['bash ','CTRL','python ','LEFT','DOWN','RIGHT','exit']]"
   echo $keys > termux.properties
   sleep 2
   printf "\n \e[1;91m[\e[1;37m√\e[1;91m] DONE!"
