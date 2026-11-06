@@ -35,11 +35,11 @@
 ### Installation
 
 ```
-$ apt update
-$ apt install git
-$ git clone https://github.com/Sumon523022/NextGenTermux-2.0.git
-$ cd NextGenTermux-2.0
-$ bash NextGenTermux.sh
+apt update
+apt install git
+git clone https://github.com/Sumon523022/NextGenTermux-2.0.git
+cd NextGenTermux-2.0
+bash NextGenTermux.sh
 ```
 
 - Select option "1" for automated setup.
